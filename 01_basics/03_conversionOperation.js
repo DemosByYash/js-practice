@@ -64,5 +64,6 @@ let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
 
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment (Prefix+postfix)
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
