@@ -33,7 +33,7 @@ let myObj = {
 
 const myFunction = function(){
     console.log("Hello world");
-}
+}  // this is called object function
 
 console.log(typeof anotherId);
 
