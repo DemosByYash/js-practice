@@ -1,5 +1,7 @@
 //  Primitive
 
+// Primitve means those datatypes which are not assigned a particular reference.
+
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
 const score = 100
@@ -19,6 +21,7 @@ console.log(id === anotherId);
 
 
 // Reference (Non primitive)
+//these get reference.
 
 // Array, Objects, Functions
 
